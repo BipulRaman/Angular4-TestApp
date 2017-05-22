@@ -1,6 +1,6 @@
-# Angular4Demo
+# Angular4 TestApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.4., by Bipul Raman.
 
 ## Development server
 
