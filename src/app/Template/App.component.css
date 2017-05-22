@@ -1,0 +1,33 @@
+nav{
+    margin: -7px;
+    background-color: #FAFAFA;
+    border: 0px;
+    border-bottom: #EBEBEB 0.5px solid;    
+    padding: 10px;
+    height: 35px;
+}
+
+nav div{
+    margin-top: 6px;
+    margin-left: 20px;
+}
+
+nav a{
+    border-color: #EBEBEB;
+    background-color: #D3D3D3;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.mainDiv
+{
+    margin:10px;
+    margin-top: 25px;
+    /*background-color: #FAFAFA;*/
+    padding: 10px;
+    /*border-radius: 5px;
+    border: #EBEBEB 0.5px solid;*/
+}

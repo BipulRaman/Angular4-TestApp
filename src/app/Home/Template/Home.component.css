@@ -1,0 +1,22 @@
+.mainDiv
+{
+    margin:5px;
+    background-color: #FAFAFA;
+    padding: 10px;
+    border-radius: 5px;
+    border: #EBEBEB 0.5px solid;
+    width: 70%;
+    float: left;
+}
+
+.sideBar
+{
+    margin:5px;
+    background-color: #FAFAFA;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    border: #EBEBEB 0.5px solid;
+    width: 25%;
+    float: left;
+}
